@@ -13,7 +13,7 @@ Deployed on **Hugging Face Spaces**, the application provides a scalable and acc
 
 ---
 
-## 💼 Resume-Level Highlights (Impact & Metrics)
+## 💼  Highlights (Impact & Metrics)
 
 * ⚡ Built and deployed a **production-ready AI application** using diffusion models
 * 🧠 Integrated **Stable Diffusion pipeline**, enabling **text → image generation in seconds**
