@@ -1,7 +1,7 @@
 # 🎨 AI Image Generator (Hugging Face Space)
 
 🔗 **Live Project / Source Code:**
-[https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main)
+[https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator)
 
 ---
 
@@ -164,11 +164,6 @@ python app.py
 
 ---
 
-## 👤 Author
-
-**Niladri Ghosh**
-
----
 
 ## 📜 License
 
@@ -186,4 +181,4 @@ This project follows the licensing terms of Stable Diffusion.
 
 ## 🔗 Project Link
 
-👉 [https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main)
+👉 [https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator)
