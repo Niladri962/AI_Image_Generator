@@ -90,19 +90,17 @@ ai_image_generator/
 
 ### 🔹 Input Prompt Example
 
-<img width="922" height="156" alt="i" src="https://github.com/user-attachments/assets/5628ec62-462d-4696-ae01-707b40096178" />
 <img width="922" height="156" alt="3" src="https://github.com/user-attachments/assets/e4111115-0d0f-4500-897f-fc2a1f1095b5" />
 
 
 ### 🔹 Generated Output Example
 
-
-<img width="512" height="450" alt="image" src="https://github.com/user-attachments/assets/70d0f542-dc4f-41fe-854e-d80fe6012a38" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/70d0f542-dc4f-41fe-854e-d80fe6012a38" />
 
 
 ### 🔹 UI Preview
+<img width="750" height="727" alt="image1" src="https://github.com/user-attachments/assets/38479b10-26e5-48ba-874d-e896f0411c54" />
 
-![UI Screenshot](assets/ui_preview.png)
 
 ---
 
