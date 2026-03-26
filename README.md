@@ -1,7 +1,7 @@
 # 🎨 AI Image Generator (Hugging Face Space)
 
 🔗 **Live Project / Source Code:**
-[https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main)
+[https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator)
 
 ---
 
