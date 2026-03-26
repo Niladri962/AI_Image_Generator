@@ -90,7 +90,12 @@ ai_image_generator/
 
 ### 🔹 Input Prompt Example
 
-![Input Prompt](assets/input_example.png)
+A futuristic Indian city at sunset with flying cars, neon lights, ultra realistic, 4k, cinematic lighting
+
+An astronaut sitting on the moon drinking chai, Earth in the background, surreal, highly detailed
+
+A cyberpunk Mumbai street at night with rain, glowing signs, reflections, ultra detailed, 8k
+
 
 ### 🔹 Generated Output Example
 
