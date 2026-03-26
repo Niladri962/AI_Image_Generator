@@ -90,18 +90,17 @@ ai_image_generator/
 
 ### 🔹 Input Prompt Example
 
-A futuristic Indian city at sunset with flying cars, neon lights, ultra realistic, 4k, cinematic lighting
-
 <img width="922" height="156" alt="i" src="https://github.com/user-attachments/assets/5628ec62-462d-4696-ae01-707b40096178" />
 <img width="922" height="156" alt="3" src="https://github.com/user-attachments/assets/e4111115-0d0f-4500-897f-fc2a1f1095b5" />
 
 
 ### 🔹 Generated Output Example
 
-![Generated Image](assets/output_example.png)
 
-### 🔹 UI Pr<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/70d0f542-dc4f-41fe-854e-d80fe6012a38" />
-eview
+<img width="512" height="450" alt="image" src="https://github.com/user-attachments/assets/70d0f542-dc4f-41fe-854e-d80fe6012a38" />
+
+
+### 🔹 UI Preview
 
 ![UI Screenshot](assets/ui_preview.png)
 
