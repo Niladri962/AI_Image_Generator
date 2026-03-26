@@ -13,7 +13,7 @@ Deployed on **Hugging Face Spaces**, the application provides a scalable and acc
 
 ---
 
-## 💼 Resume-Level Highlights (Impact & Metrics)
+## 💼 Highlights (Impact & Metrics)
 
 * ⚡ Built and deployed a **production-ready AI application** using diffusion models
 * 🧠 Integrated **Stable Diffusion pipeline**, enabling **text → image generation in seconds**
@@ -46,7 +46,7 @@ Deployed on **Hugging Face Spaces**, the application provides a scalable and acc
 
 ### 🔹 Deployment & UI
 
-* **Gradio** – interactive frontend UI
+* **Streamlit** – interactive frontend UI
 * **Hugging Face Spaces** – hosting & CI/CD deployment
 
 ---
@@ -66,7 +66,7 @@ Deployed on **Hugging Face Spaces**, the application provides a scalable and acc
 ```
 ai_image_generator/
 │
-├── app.py              # Main application (Gradio UI + inference)
+├── app.py              # Main application (Streamlit UI + inference)
 ├── requirements.txt   # Python dependencies
 ├── README.md          # Documentation
 └── assets/            # Screenshots / demo images
@@ -80,7 +80,7 @@ ai_image_generator/
 2. Prompt encoded using **CLIP text encoder**
 3. Diffusion process generates latent representation
 4. Latent is decoded into an image
-5. Image displayed via Gradio interface
+5. Image displayed via Streamlit interface
 
 ---
 
@@ -110,7 +110,7 @@ diffusers
 transformers
 accelerate
 safetensors
-gradio
+streamlit
 ```
 
 ---
