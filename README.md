@@ -1,7 +1,7 @@
 # 🎨 AI Image Generator (Hugging Face Space)
 
 🔗 **Live Project / Source Code:**
-[https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator)
+[https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main)
 
 ---
 
@@ -13,7 +13,7 @@ Deployed on **Hugging Face Spaces**, the application provides a scalable and acc
 
 ---
 
-## 💼 Highlights (Impact & Metrics)
+## 💼 Resume-Level Highlights (Impact & Metrics)
 
 * ⚡ Built and deployed a **production-ready AI application** using diffusion models
 * 🧠 Integrated **Stable Diffusion pipeline**, enabling **text → image generation in seconds**
@@ -151,6 +151,12 @@ python app.py
 * Clean and responsive UI
 * Cloud-based inference
 * Scalable architecture
+* 🕘 **Image History** – stores previously generated images for reuse
+* 🧹 **Clear History Option** – allows users to reset session instantly
+* ⬆️ **Image Upload Support** – upload images for refinement/editing
+* 🎨 **Image Refinement** – enhance or modify images up to **200MB size**
+* ⬇️ **Download Feature** – save generated images locally
+* 🔁 **Iterative Generation** – refine prompts and regenerate outputs
 
 ---
 
@@ -181,4 +187,4 @@ This project follows the licensing terms of Stable Diffusion.
 
 ## 🔗 Project Link
 
-👉 [https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator)
+👉 [https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main)
