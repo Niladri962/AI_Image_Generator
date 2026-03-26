@@ -93,8 +93,7 @@ ai_image_generator/
 A futuristic Indian city at sunset with flying cars, neon lights, ultra realistic, 4k, cinematic lighting
 
 <img width="922" height="156" alt="i" src="https://github.com/user-attachments/assets/5628ec62-462d-4696-ae01-707b40096178" />
-<img width="907" height="117" alt="2" src="https://github.com/user-attachments/assets/a6c40ed0-55b2-4285-ab45-b8664ccc3d1e" />
-
+<img width="922" height="156" alt="3" src="https://github.com/user-attachments/assets/e4111115-0d0f-4500-897f-fc2a1f1095b5" />
 
 
 ### 🔹 Generated Output Example
