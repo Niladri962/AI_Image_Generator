@@ -92,7 +92,8 @@ ai_image_generator/
 
 A futuristic Indian city at sunset with flying cars, neon lights, ultra realistic, 4k, cinematic lighting
 
-An astronaut sitting on the moon drinking chai, Earth in the background, surreal, highly detailed
+<img width="922" height="156" alt="i" src="https://github.com/user-attachments/assets/5628ec62-462d-4696-ae01-707b40096178" />
+
 
 A cyberpunk Mumbai street at night with rain, glowing signs, reflections, ultra detailed, 8k
 
