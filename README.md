@@ -86,7 +86,6 @@ ai_image_generator/
 
 ## 📸 Demo Screenshots
 
-> Add your screenshots inside the `assets/` folder and reference them below.
 
 ### 🔹 Input Prompt Example
 
@@ -189,4 +188,4 @@ This project follows the licensing terms of Stable Diffusion.
 
 ## 🔗 Project Link
 
-👉 [https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main)
+👉 [https://huggingface.co/spaces/gniladri21/ai_image_generator/tree/main](https://huggingface.co/spaces/gniladri21/ai_image_generator)
